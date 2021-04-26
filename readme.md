@@ -1,6 +1,6 @@
 This is a repository to keep 3edc2wsx1qaz's blog.
 
-
+Remember to upload the article to github.
 
 Remember to install:
 
